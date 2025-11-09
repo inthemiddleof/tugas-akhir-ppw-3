@@ -1,6 +1,6 @@
 # Landing Page Bloksoftware
 
-Proyek ini adalah landing page statis yang modern dan responsif untuk _software house_ "Bloksoftware". Dibuat murni dengan **HTML** dan **Tailwind CSS** (via CDN).
+Proyek ini adalah landing page statis yang modern dan responsif untuk _software house_ "Bloksoftware". Dibuat murni dengan **HTML**, sedikit Javascript, dan **Tailwind CSS** (via CDN).
 
 ## 🚀 Komponen Utama
 
@@ -31,7 +31,7 @@ Proyek ini adalah landing page statis yang modern dan responsif untuk _software 
 - **6. Footer:**
   - Footer multi-kolom profesional dengan _branding_, tautan navigasi, layanan, legal, dan ikon media sosial.
 
-## 💻 Tumpukan Teknologi
+## 💻 Teknologi
 
 - **HTML5**
 - **Tailwind CSS** (dimuat via CDN)
