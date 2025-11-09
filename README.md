@@ -42,8 +42,8 @@ Proyek ini adalah landing page statis yang modern dan responsif untuk _software 
 
 1.  **Buat folder `img`** di sebelah file `index.html`.
 2.  **Tambahkan gambar Anda** ke dalam folder `img` dengan nama:
-    - `herosection.jpg`
-    - `about-collaboration.jpg`
+    - `about-kolaborasitim.jpg`
+    - `hero-coding.jpg`
 3.  **Buka file `index.html`** langsung di browser Anda.
 
 Tidak perlu instalasi atau proses _build_.
